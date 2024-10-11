@@ -175,6 +175,7 @@ input {
   font-size: 14px;
   cursor: pointer;
   outline: none;
+  text-decoration: none;
 }
 
 .app-form-button:hover {
